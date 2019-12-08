@@ -43,7 +43,7 @@
                 <artifactId>docker-maven-plugin</artifactId>
                 <version>0.4.13</version>
                 <configuration>
-                    <dockerHost>129.28.191.77</dockerHost>
+                    <dockerHost>http://129.28.191.77:2375</dockerHost>
                     <!--用于指定镜像名称-->
                     <imageName>${project.name}:${project.version}</imageName>
                     <!--用于指定基础镜像，相当于Dockerfile中的FROM指令-->
