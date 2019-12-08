@@ -11,7 +11,7 @@ public class HelloWorldController {
     @GetMapping("/")
     public String sayHello(){
 
-        return "Helloworld v1.0.0";
+        return "Helloworld v1.0.1";
     }
 
 }
