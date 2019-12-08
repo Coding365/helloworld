@@ -1,0 +1,4 @@
+server:
+  servlet:
+    context-path: /helloworld
+  port: 8088
