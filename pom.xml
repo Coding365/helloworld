@@ -5,7 +5,7 @@
 
     <groupId>com.teligen.service</groupId>
     <artifactId>helloworld</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
 
     <name>helloworld</name>
